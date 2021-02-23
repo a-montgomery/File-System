@@ -1,2 +1,4 @@
 # File-System
-File System project for CSS430 - Operating Systems at University of Washington Bothell
+File System project for CSS430 - Operating Systems 
+
+University of Washington Bothell - Fall 2020
